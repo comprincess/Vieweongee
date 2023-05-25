@@ -48,16 +48,16 @@
 
 | Application | Domain | Language | Front | Back | DB |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| Desktop Web | WebRTC | JavaScript, Java | React | Spring | MySql |
+| Desktop Web | WebRTC | JavaScript, Java | Vue | Spring Boot | MySql |
 
 ### **Frontend**
 - Language : JavaScript, HTML, CSS
-- Framework : React.js, Redux
+- Framework : Vue.js, Vuex
 
 
 ### **Backend**
 - Language : Java
-- Framework : Spring
+- Framework : Spring Boot
 - DB : MySQL
 - Server : AWS EC2, Nginx
 - WebRTC : openvidu
@@ -68,7 +68,6 @@
   - WebRTC
   - JWT Authentication
   - REST API
-  - 
 
 ### **참조 리소스**
   * Vuetify: 디자인 전반 적용
